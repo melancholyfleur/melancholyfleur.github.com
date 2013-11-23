@@ -1,9 +1,29 @@
 body {
-  background-color: #81DAF5;
+  /*background-color: #81DAF5;*/
+  background-color: #9AE1F6;
   color: #000;
   font-family: monospace;
   font-size: 1.3em;
+  width:600px;
+}
+#my-name{
+  font-size:1.4em;
+}
+a:link{
+  color:#434644;
+}
+a:visited {
+  color:#43BA72;
+}
+a:hover {
+  color:#C76CE0;
+}
+a:active {
+  color:#FE2EF7;
 }
 #main {
   margin-left: 30px;
+}
+#cat-image {
+  width:70%;
 }
