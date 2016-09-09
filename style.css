@@ -1,9 +1,8 @@
 body {
-  /*background-color: #9AE1F6;*/
-  background-color: #E2D2AB;
-  color: #000;
+  background-color: #2C0022;
+  color: #E7C0DE;
   font-family: monospace;
-  font-size: 1.3em;
+  font-size: 1.5em;
   width:800px;
 }
 .info-bit {
@@ -14,16 +13,16 @@ body {
   font-size:1.4em;
 }
 a:link{
-  color:#434644;
+  color:#7ABD68;
 }
 a:visited {
-  color:#43BA72;
+  color:#7ABD68;
 }
 a:hover {
-  color:#C76CE0;
+  color:#FFFAC2;
 }
 a:active {
-  color:#FE2EF7;
+  color:#FFFAC2;
 }
 #main {
   margin-left: 30px;
