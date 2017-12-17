@@ -31,6 +31,7 @@ a:active {
   width:70%;
 }
 #profile-picture img {
+  padding: 20px;
   height: 300px;
   border-radius: 300px;
   -webkit-border-radius: 300px;
